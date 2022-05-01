@@ -10,7 +10,7 @@
 
 [Condicional If Else](condicional-ifelse.js)
 
-[Condicional Switch,case](condicional-switch- case.js)
+[Condicional Switch e case](condicional-switch- case.js)
 
 [Objeto](objeto.js)
 
