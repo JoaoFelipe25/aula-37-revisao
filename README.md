@@ -2,4 +2,4 @@
 
 ## Revisão da Semana
 
-[aula-37-revisao/array.js /](array)
+[array](array.js)
